@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "tyriar.luna-paint",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.jupyter",
+        "coderfin.logical-properties"
+    ]
+}
